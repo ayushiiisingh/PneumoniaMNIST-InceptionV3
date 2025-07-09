@@ -1,0 +1,7 @@
+Requirements------
+tensorflow==2.14.0
+numpy
+matplotlib
+scikit-learn
+opencv-python
+medmnist
