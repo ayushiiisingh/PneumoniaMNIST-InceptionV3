@@ -1,0 +1,12 @@
+## Hyperparameters
+
+| Hyperparameter    | Value  |
+|-------------------|--------|
+| Learning Rate     | 0.0001 |
+| Batch Size        | 32     |
+| Epochs            | 20     |
+| Optimizer         | Adam   |
+| Loss Function     | Binary Crossentropy |
+
+These values were chosen based on common transfer learning practices. The learning rate was kept low (0.0001) to ensure stable fine-tuning of the pre-trained InceptionV3 layers. A batch size of 32 and 20 epochs provided a good trade-off between training time and performance.
+
