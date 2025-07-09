@@ -1,1 +1,0 @@
-# PneumoniaMNIST-InceptionV3
