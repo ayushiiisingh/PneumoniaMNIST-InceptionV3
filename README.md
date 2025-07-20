@@ -44,8 +44,8 @@ The goal of this project is to fine-tune a pre-trained InceptionV3 model to clas
 | Metric    | Score |
 |-----------|-------|
 | Accuracy  | 89%   |
-| F1 Score  | 0.915 |
-| ROC-AUC   | 0.875 |
+| F1 Score  | 0.91 |
+| ROC-AUC   | 0.95 |
 
 Visualizations such as the confusion matrix, ROC curve, and metric bar plots are generated as part of the output.
 
